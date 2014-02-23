@@ -2,7 +2,7 @@
     "name": "videojs",
     "description": "A smart package that makes it easy to use Video.js",
     "homepage": "https://github.com/nate-strauser/meteor-video-js",
-    "author": "Nate Strauser",
+    "author": "Nate Strauser, Colin Sullivan <colin [at] colin-sullivan.net>",
     "version": "4.1.2",
     "git": "https://github.com/nate-strauser/meteor-video-js.git",
     "packages": {}
